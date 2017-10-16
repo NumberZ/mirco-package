@@ -1,0 +1,20 @@
+{
+  "name": "mirco-package",
+  "version": "1.0.0",
+  "description": "one package per day",
+  "main": "arr-diff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumberZ/mirco-package.git"
+  },
+  "keywords": [],
+  "author": "lilinhao <linhaoweb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumberZ/mirco-package/issues"
+  },
+  "homepage": "https://github.com/NumberZ/mirco-package#readme"
+}
